@@ -1,0 +1,14 @@
+Read Me 
+
+This code is based on Named Entity Recognition (NER) with BERT in Spark NLP” posted
+by Veysel Kocaman in toward data science of Medium.com.
+
+What is NER?
+"Named entity recognition (NER) — sometimes referred to as entity chunking, extraction, or identification — is the task of identifying and categorizing key information (entities) in text."
+source: https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d
+
+NER is basically a form of NLP, Natural Language Processing. This exercise will allow us to detect and search through text and categorize the language. 
+
+In this upload, I used Google Research’s Colaboratory for Spark NLP. It is similar to Jupyter notebook for python. Google Colaboratory is free to use with a google, google drive account. 
+
+
