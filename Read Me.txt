@@ -1,6 +1,3 @@
-
-Certainly, here's a revised version suitable for a README file:
-
 Named Entity Recognition (NER) with BERT in Spark NLP
 This code repository is based on Named Entity Recognition (NER) with BERT in Spark NLP, originally posted by Veysel Kocaman on Medium's Towards Data Science.
 
